@@ -1,0 +1,3 @@
+rootProject.name = 'UnitedColors'
+
+include ':app'
